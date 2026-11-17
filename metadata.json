@@ -1,0 +1,6 @@
+{
+  "name": "OLMABEK AI",
+  "description": "O'zbekcha sun'iy intellekt ishchi maydoni: aqlli suhbat, rasm studiyasi va Google AI Studio API asosidagi Olmabek Code jonli preview bilan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
